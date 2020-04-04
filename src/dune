@@ -1,0 +1,7 @@
+(executable
+  (name occ)
+  (libraries lib))
+
+(toplevel
+  (name repl)
+  (libraries lib))
